@@ -6,5 +6,5 @@ versions five
 version new six
 master conflict demo
 group conflict dev branch
-
+conflict dev
 
